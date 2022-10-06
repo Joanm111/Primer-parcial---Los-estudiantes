@@ -154,6 +154,7 @@ namespace Primer_parcial___Los_estudiantes
                             Console.WriteLine($"Minima calificacion: {temp2.Nombre} {temp2.Apellido}: {temp2.Pp1}");
                             Console.WriteLine("");
                         }
+                        
                         break;
                     case "6":
                         StringBuilder sb = new StringBuilder();

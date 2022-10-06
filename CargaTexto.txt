@@ -1,0 +1,63 @@
+Asignatura: Inf-345-01s Cantidad Estudiante: 12
+Estudiante: Luis Carlos Londono Nu�ez
+Estudiante: Hector Anibal De La Cruz
+Estudiante: Kalil Miguel Genao
+Estudiante: Angel Manuel Adames Monta�o
+Estudiante: Jorge Andres Gonzalez Monegro
+Estudiante: Pedro Emilio Lora Rivas
+Estudiante: Wendalis Andreina Frias Cuevas
+Estudiante: Hermes Enmanuel Pellerano Del Giudice
+Estudiante: Elvis Miguel Peralta Diaz
+Estudiante: Amalia Yudelki Pujols Pimentel
+Estudiante: Stevens Santiago B�ez
+Estudiante: Neida Angelina Bodden Espinosa
+
+Asignatura: Inf-350-01s Cantidad Estudiante: 17
+Estudiante: Eric Stwart Ruiz Perez
+Estudiante: Ruben Alejandro Mendez Rivera
+Estudiante: Jhosual Michel Orozco Blanco
+Estudiante: Ricardo Richard Jimenez Veloz
+Estudiante: Kalil Miguel Genao
+Estudiante: Derian Agramonte Gomez
+Estudiante: Guillermo Jose Herrera F�garo
+Estudiante: Wendalis Andreina Frias Cuevas
+Estudiante: Jose Francisco Crespo Rodriguez
+Estudiante: Lucas Vasquez Ramirez
+Estudiante: Junior De La Cruz Gonzalez
+Estudiante: Jose Antonio Rijo Peguero
+Estudiante: Vihannka Yamelle Collado Rodr�guez
+Estudiante: Elian Henriquez Pimentel
+Estudiante: Luis Fernando Gomez Garcia
+Estudiante: Amelia Damimary Vizca�no Jim�nez
+Estudiante: Jos� Guillermo Urb�ez F�liz
+
+Asignatura: Inf-556-01s Cantidad Estudiante: 12
+Estudiante: Ruben Alejandro Mendez Rivera
+Estudiante: Ricardo Richard Jimenez Veloz
+Estudiante: Fatima S. Vasquez Sanchez
+Estudiante: Emmanuel Pe�a Rodriguez
+Estudiante: Victor Osiris Rodriguez Guzman
+Estudiante: Jeyson Javier Almonte Montero
+Estudiante: Cristian Rafael Tejeda Salazar
+Estudiante: Andres Eduardo Nu�ez Cordero
+Estudiante: Emil L�pez De Jes�s
+Estudiante: Jhoan Mu�oz De Mota
+Estudiante: Jeniffer Cristal Carrasco Ramirez
+Estudiante: Fabrizio De Jesus Fuentes Almao
+
+Asignatura: Inf-422-02 Cantidad Estudiante: 14
+Estudiante: Kivel Orlando Rosa Rosario
+Estudiante: Pedro Emilio Lora Rivas
+Estudiante: Josue De Jesus Hernandez Martinez
+Estudiante: Cristian Rafael Tejeda Salazar
+Estudiante: Denisse Alexandra Gonzalez Bather
+Estudiante: Darickson Frias Tejada
+Estudiante: Andres Eduardo Nu�ez Cordero
+Estudiante: Ricardo Javier Acosta De Los Santos
+Estudiante: Joseily Chantal Santana Mercedes
+Estudiante: Eric Daniel Nieves Mateo
+Estudiante: Emil L�pez De Jes�s
+Estudiante: Jhoan Mu�oz De Mota
+Estudiante: Kevin Almonte Valdez
+Estudiante: Hugo Antonio Mateo Pinales
+
